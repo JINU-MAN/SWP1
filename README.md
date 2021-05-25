@@ -1,3 +1,2 @@
-D
-2021300 2Park Jinwoo
-Kookmin Univ. S :W
+20213002Park Jinwoo
+Kookmin Univ. SW
